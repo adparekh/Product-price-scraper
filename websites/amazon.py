@@ -1,5 +1,6 @@
 from sys import setdlopenflags
-from configuration import amazon_config as ac
+from configuration import amazon as ac
+from configuration import selenium as sm
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
 import time
@@ -10,10 +11,10 @@ class AmazonAPI:
         self.base_url = base_url
         self.search_term = search_term
         self.currency = currency
-        options = ac.get_web_driver_options()
-        ac.set_ignore_certificate_error(options)
-        ac.set_browser_as_incognito(options)
-        self.driver = ac.get_chrome_web_driver(options)
+        options = sm.get_web_driver_options()
+        sm.set_ignore_certificate_error(options)
+        sm.set_browser_as_incognito(options)
+        self.driver = sm.get_chrome_web_driver(options)
         self.price_filter = "&rh=p_36%3A{}00-{}00".format(
             filters['min'], filters['max'])
 

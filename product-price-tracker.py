@@ -1,4 +1,4 @@
-from configuration import amazon_config as ac
+from configuration import amazon as ac
 from websites import amazon as az
 
 import json
