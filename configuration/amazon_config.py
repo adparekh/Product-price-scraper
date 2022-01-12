@@ -4,10 +4,13 @@ from selenium import webdriver
 class AmazonConfig:
     def __init__(self):
         self.directory = 'reports'
-        self.name = input("Enter the product to be searched: ")
+        # self.name = input("Enter the product to be searched: ")
+        self.name = "PS4 games"
         self.currency = '$'
-        self.min_price = input("Enter the minimum price range: ")
-        self.max_price = input("Enter the maximum price range: ")
+        # self.min_price = input("Enter the minimum price range: ")
+        # self.max_price = input("Enter the maximum price range: ")
+        self.min_price = 30
+        self.max_price = 100
         self.filters = {
             'min': self.min_price,
             'max': self.max_price
