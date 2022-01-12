@@ -5,11 +5,6 @@ from selenium.common.exceptions import NoSuchElementException
 import time
 
 
-class GenerateReport:
-    def __init__(self):
-        pass
-
-
 class AmazonAPI:
     def __init__(self, search_term, filters, base_url, currency):
         self.base_url = base_url
@@ -50,8 +45,6 @@ class AmazonAPI:
         if results == None:
             print("None")
         links = []
-        # for result in results:
-        #     print(result.text)
         try:
             links = [result.find_element_by_css_selector(
                 ".a-link-normal.s-no-outline").get_attribute('href') for result in results]
@@ -170,11 +163,3 @@ class AmazonAPI:
 
     def get_asin(self, link):
         return link[link.find('/dp/') + 4:link.find('/ref')]
-
-
-if __name__ == '__main__':
-    connect = ac.AmazonConfig()
-    amazon = AmazonAPI(connect.name, connect.filters,
-                       connect.base_URL, connect.currency)
-    data = amazon.run()
-    print(data)
