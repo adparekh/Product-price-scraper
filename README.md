@@ -1,6 +1,6 @@
-# Product Price Tracker
+# Product Price Scraper
 
-The product price tracker is a python script that searches for a particular product from online shopping websites such as Amazon, and retrieves the product data from the website. This script scrapes essential product data from the Amazon website and stores it in JSON format. This JSON file is stored within the ```reports``` directory.
+The product price scraper is a python script that searches for a particular product from online shopping websites such as Amazon, and retrieves the product data from the website. This script scrapes essential product data from the Amazon website and stores it in JSON format. This JSON file is stored within the ```reports``` directory.
 
 ## About
 
@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 3. Executing the python script.
 ```buildoutcfg
-python3 product-price-tracker.py
+python3 product-price-scraper.py
 ```
 
 ## Working
