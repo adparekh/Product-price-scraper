@@ -1,0 +1,320 @@
+{
+    "title":"PS4 games",
+    "date":"13/01/2022 00:31:56",
+    "currency":"$",
+    "price-filters":{
+       "min":"30",
+       "max":"60"
+    },
+    "base_link":"https://www.amazon.ca/",
+    "products":[
+       {
+          "asin":"B084MTF1FN",
+          "url":"https://www.amazon.ca/dp/B084MTF1FN",
+          "title":"Kingdom Hearts All In One - PlayStation 4",
+          "seller":"Square-Enix",
+          "price":19.96
+       },
+       {
+          "asin":"B08746VVF1",
+          "url":"https://www.amazon.ca/dp/B08746VVF1",
+          "title":"The Dark Pictures: Little Hope - PlayStation 4",
+          "seller":"Namco Bandai",
+          "price":19.97
+       },
+       {
+          "asin":"B075YBBQMM",
+          "url":"https://www.amazon.ca/dp/B075YBBQMM",
+          "title":"PS4 Controller Charger, OIVO Controller Charging Dock Station for Playstation 4 Controller, Dual Controller Charger Station for PS4",
+          "seller":"OIVO",
+          "price":19.99
+       },
+       {
+          "asin":"B07YWYXPC1",
+          "url":"https://www.amazon.ca/dp/B07YWYXPC1",
+          "title":"PS4 Controller Charger Dock Station, OIVO PS4 Dual Charger Docking Station with lED Indicator for Playstation 4 Controller",
+          "seller":"OIVO",
+          "price":19.99
+       },
+       {
+          "asin":"B00HUXPZPK",
+          "url":"https://www.amazon.ca/dp/B00HUXPZPK",
+          "title":"PlayStation 4 USB Charging Cable",
+          "seller":"BDA",
+          "price":22.75
+       },
+       {
+          "asin":"B09H44F3Y5",
+          "url":"https://www.amazon.ca/dp/B09H44F3Y5",
+          "title":"Gaming Headset for PS4 Xbox One PC, Over Ear Gaming Headphones with Noise Cancelling Microphone LED Light, PS4 Headset with Stereo Surround Sound for Laptop, PC, Smartphones, Mac, iPad",
+          "seller":"Generic",
+          "price":23.79
+       },
+       {
+          "asin":"B01LPO6WF6",
+          "url":"https://www.amazon.ca/dp/B01LPO6WF6",
+          "title":"LEGO Harry Potter Collection - PlayStation 4",
+          "seller":"WARNER HOME VIDEO GAMES",
+          "price":23.91
+       },
+       {
+          "asin":"B07DGCBSCY",
+          "url":"https://www.amazon.ca/dp/B07DGCBSCY",
+          "title":"Wreckfest - PlayStation 4",
+          "seller":"THQ Nordic",
+          "price":24.68
+       },
+       {
+          "asin":"B082QKS6ZG",
+          "url":"https://www.amazon.ca/dp/B082QKS6ZG",
+          "title":"Fast & Furious Crossroads - PlayStation 4",
+          "seller":"Namco Bandai",
+          "price":24.98
+       },
+       {
+          "asin":"B08VD5R55V",
+          "url":"https://www.amazon.ca/dp/B08VD5R55V",
+          "title":"Subnautica Below Zero PS4 - PlayStation 4",
+          "seller":"Namco Bandai",
+          "price":24.99
+       },
+       {
+          "asin":"B01MUDTTIP",
+          "url":"https://www.amazon.ca/dp/B01MUDTTIP",
+          "title":"Ace Combat 7, Skies Unknown - PlayStation 4",
+          "seller":"Namco Bandai",
+          "price":24.99
+       },
+       {
+          "asin":"B07P2H1G4S",
+          "url":"https://www.amazon.ca/dp/B07P2H1G4S",
+          "title":"Monster Jam Steel Titans PlayStation 4",
+          "seller":"Nordic Games",
+          "price":27.32
+       },
+       {
+          "asin":"B08BJB1MDD",
+          "url":"https://www.amazon.ca/dp/B08BJB1MDD",
+          "title":"Madden NFL 21 - Playstation 4",
+          "seller":"Electronic Arts",
+          "price":29.9
+       },
+       {
+          "asin":"B08JHP4Q7Y",
+          "url":"https://www.amazon.ca/dp/B08JHP4Q7Y",
+          "title":"Sniper: Ghost Warrior, Contracts 2 - PlayStation 4",
+          "seller":"CI Games",
+          "price":29.96
+       },
+       {
+          "asin":"B07L923XZJ",
+          "url":"https://www.amazon.ca/dp/B07L923XZJ",
+          "title":"Mortal Kombat 11 Playstation 4 - Standard Edition",
+          "seller":"Warner Bros",
+          "price":29.96
+       },
+       {
+          "asin":"B07D8KZ5NK",
+          "url":"https://www.amazon.ca/dp/B07D8KZ5NK",
+          "title":"Team Sonic Racing - PlayStation 4",
+          "seller":"SEGA",
+          "price":32.29
+       },
+       {
+          "asin":"B01IPARX1A",
+          "url":"https://www.amazon.ca/dp/B01IPARX1A",
+          "title":"Sniper Elite 4 - PlayStation 4",
+          "seller":"Sold Out",
+          "price":32.99
+       },
+       {
+          "asin":"B08JHY4J14",
+          "url":"https://www.amazon.ca/dp/B08JHY4J14",
+          "title":"Little Nightmares II - PlayStation 4",
+          "seller":"Namco Bandai",
+          "price":34.97
+       },
+       {
+          "asin":"B07DJWBYKP",
+          "url":"https://www.amazon.ca/dp/B07DJWBYKP",
+          "title":"Cyberpunk 2077 PlayStation 4 - Standard Edition",
+          "seller":"Warner Bros",
+          "price":34.99
+       },
+       {
+          "asin":"B01M8K0P3K",
+          "url":"https://www.amazon.ca/dp/B01M8K0P3K",
+          "title":"Red Dead Redemption 2 - Standard Edition - PlayStation 4",
+          "seller":"Rockstar Games",
+          "price":37.48
+       },
+       {
+          "asin":"B098NNFRYZ",
+          "url":"https://www.amazon.ca/dp/B098NNFRYZ",
+          "title":"Controller for PS4, PS4 Controller, Manette PS4, Shineled Touch Panel Gamepad with Double Vibration, Light Bar, and Audio Function, Gaming Joystick Compatible with PS4 / Slim/Pro Console (Blue)",
+          "seller":"Shineled",
+          "price":37.99
+       },
+       {
+          "asin":"B07SZY96GX",
+          "url":"https://www.amazon.ca/dp/B07SZY96GX",
+          "title":"Watch Dogs Legion - Playstation 4",
+          "seller":"Ubisoft",
+          "price":39.45
+       },
+       {
+          "asin":"B09M83M462",
+          "url":"https://www.amazon.ca/dp/B09M83M462",
+          "title":"Black Shark Gaming Headset for PC, PS4, PS5, Xbox, Switch, All-in-1 Gaming Headphones with Ultra-Clear Bendable Mic, 50mm Dynamic Drivers, Noise Isolation Ear Cushions, in-line Controls - Goblin X1",
+          "seller":"Black Shark",
+          "price":39.99
+       },
+       {
+          "asin":"B07WYNHW66",
+          "url":"https://www.amazon.ca/dp/B07WYNHW66",
+          "title":"No Man's Sky Beyond - PlayStation 4",
+          "seller":"Playstation",
+          "price":39.99
+       },
+       {
+          "asin":"B089Y7P8FS",
+          "url":"https://www.amazon.ca/dp/B089Y7P8FS",
+          "title":"Stynice Gaming Headset Headphones for Xbox, PC, PS4, PS5, Laptop, Crystal Clear Sound Computer Gamer Headset with Noise Canceling Mic and LED Light - Lightweight Comfortable Over Ear (Blue)",
+          "seller":"Stynice",
+          "price":39.99
+       },
+       {
+          "asin":"B08CXM17PT",
+          "url":"https://www.amazon.ca/dp/B08CXM17PT",
+          "title":"Donop Wireless Controller for PS4 Playstation 4 Dual Shock (New Model) (Silver)",
+          "seller":"Donop",
+          "price":39.99
+       },
+       {
+          "asin":"B094F2B1Z5",
+          "url":"https://www.amazon.ca/dp/B094F2B1Z5",
+          "title":"Lost Judgment - Playstation 4",
+          "seller":"SEGA",
+          "price":39.99
+       },
+       {
+          "asin":"B08FX35S7K",
+          "url":"https://www.amazon.ca/dp/B08FX35S7K",
+          "title":"SENZER SG500 Surround Sound Pro Gaming Headset with Noise Cancelling Microphone - Detachable Memory Foam Ear Pads - Portable Foldable Headphones for PC, PS4, PS5, Xbox One, Switch",
+          "seller":"SENZER",
+          "price":39.99
+       },
+       {
+          "asin":"B07YVPKNDC",
+          "url":"https://www.amazon.ca/dp/B07YVPKNDC",
+          "title":"PlayStation PSVR Marvel's Iron Man - PlayStation 4",
+          "seller":"Playstation",
+          "price":39.99
+       },
+       {
+          "asin":"B09742GFC2",
+          "url":"https://www.amazon.ca/dp/B09742GFC2",
+          "title":"Big Rumble Boxing Creed Champions - PlayStation 4",
+          "seller":"Deep Silver",
+          "price":39.99
+       },
+       {
+          "asin":"B08N6G2RMK",
+          "url":"https://www.amazon.ca/dp/B08N6G2RMK",
+          "title":"Wireless Controller for PS4, YAEYA Gamepad Joystick Wireless Remote Pro Controller for PS4/PRO/SLIM with Motion Motors and Built-in Audio Function, NOT-OEM (Red)",
+          "seller":"YAEYE",
+          "price":40.99
+       },
+       {
+          "asin":"B07PL2VZMN",
+          "url":"https://www.amazon.ca/dp/B07PL2VZMN",
+          "title":"Sudden Strike 4 Complete Collection PlayStation 4",
+          "seller":"Kalypso Media",
+          "price":44.11
+       },
+       {
+          "asin":"B07GRRCRQK",
+          "url":"https://www.amazon.ca/dp/B07GRRCRQK",
+          "title":"Microsoft American Ninja Warrior - Playstation 4",
+          "seller":"Microsoft",
+          "price":44.12
+       },
+       {
+          "asin":"B07D4WMSBJ",
+          "url":"https://www.amazon.ca/dp/B07D4WMSBJ",
+          "title":"Crash Bandicoot N. Sane Trilogy - PlayStation 4 (English Only) - PS4 Edition",
+          "seller":"ACTIVISION",
+          "price":44.87
+       },
+       {
+          "asin":"B01K5FSETS",
+          "url":"https://www.amazon.ca/dp/B01K5FSETS",
+          "title":"The Witcher 3 Wild Hunt Complete Edition Playstation 4",
+          "seller":"Warner Bros",
+          "price":45.68
+       },
+       {
+          "asin":"B07BX4CVXG",
+          "url":"https://www.amazon.ca/dp/B07BX4CVXG",
+          "title":"Spyro Reignited Trilogy for PlayStation 4",
+          "seller":"ACTIVISION",
+          "price":46.95
+       },
+       {
+          "asin":"B087ZLSH6P",
+          "url":"https://www.amazon.ca/dp/B087ZLSH6P",
+          "title":"Assassin's Creed Valhalla - PlayStation 4 - Edition - PS4 Edition",
+          "seller":"Ubisoft",
+          "price":47.99
+       },
+       {
+          "asin":"B07YCSNYRC",
+          "url":"https://www.amazon.ca/dp/B07YCSNYRC",
+          "title":"The Last of Us Part II - PlayStation 4",
+          "seller":"Playstation",
+          "price":49.96
+       },
+       {
+          "asin":"B08XRM361L",
+          "url":"https://www.amazon.ca/dp/B08XRM361L",
+          "title":"Hot Wheels Unleashed - PlayStation 4",
+          "seller":"Deep Silver",
+          "price":49.96
+       },
+       {
+          "asin":"B01GW9H1UO",
+          "url":"https://www.amazon.ca/dp/B01GW9H1UO",
+          "title":"Days Gone - PlayStation 4 - Standard Edition",
+          "seller":"Playstation",
+          "price":49.96
+       },
+       {
+          "asin":"B07W8QPL4Q",
+          "url":"https://www.amazon.ca/dp/B07W8QPL4Q",
+          "title":"Marvel's Spider-Man: Game of the Year - PlayStation 4",
+          "seller":"Playstation",
+          "price":49.99
+       },
+       {
+          "asin":"B097VF71MT",
+          "url":"https://www.amazon.ca/dp/B097VF71MT",
+          "title":"Demon Slayer: The Hinokami Chronicles - PlayStation 4",
+          "seller":"SEGA",
+          "price":49.99
+       },
+       {
+          "asin":"B099SHG41X",
+          "url":"https://www.amazon.ca/dp/B099SHG41X",
+          "title":"Nickelodeon All-Star Brawl Playstation 4",
+          "seller":"Game Mill",
+          "price":49.99
+       },
+       {
+          "asin":"B07SMBNTSY",
+          "url":"https://www.amazon.ca/dp/B07SMBNTSY",
+          "title":"Tales of Arise - PlayStation 4 Edition",
+          "seller":"Namco Bandai",
+          "price":65.34
+       }
+    ]
+ }
