@@ -120,8 +120,8 @@ class AmazonAPI:
 
     def clean_price(self, price):
         price = price.split(self.currency)[1]
-        if price.find("\n") != -1:
-            price = price.split("\n")[0] + "." + price.split("\n")[1]
+        price = price.replace("\n", ".")
+        price = price.replace(",", "")
         return float(price)
 
     def get_price(self):
